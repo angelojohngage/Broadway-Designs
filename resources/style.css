@@ -1,4 +1,28 @@
 body {
   font-family: Helvetica;
-  text-align: center; 
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+div.hero {
+  background-image: url (./resources/images/the-flatiron-building.png)
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  }
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
