@@ -10,7 +10,8 @@ h1 {
 }
 
 div.hero {
-  background-image: url (./resources/images/the-flatiron-building.png)
+  background-image: url(./resources/images/the-flatiron-building.png);
+
 }
 
 h2 {
@@ -25,4 +26,19 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.nav {
+  color: white;
+  font-size: 18px
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+span {
+  font-size: 11px
 }
